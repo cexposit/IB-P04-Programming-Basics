@@ -19,7 +19,7 @@ Se señalan a continuación los aspectos más relevantes (la lista no es exhaust
 
 ### Introducción
 
-POR DESCRIBIR
+La única manera de aprender a programar es programando. Por ello, tanto en esta como en gran parte de las prácticas siguientes se persigue que el estudiante ponga en práctica los conocimientos de programación adquiridos mediante programas de complejidad incremental y que requieren de los conocimientos previos para poder ser resueltos de manera adecuada. En este sentido, se proponen ejercicios que el alumno debe desarrollar de forma individual y donde la generación de código para resolver los problemas propuestos le servirá para formularse nuevas preguntas y consolidar los conceptos adquiridos.
 
 ### Trabajo previo
 
