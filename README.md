@@ -23,8 +23,25 @@ La única manera de aprender a programar es programando. Por ello, tanto en esta
 
 ### Trabajo previo
 
-1. Vea el vídeo [Problemas, Algoritmos y
-Programas](https://media.upv.es/#/portal/video/a8d70173-71c5-884e-8308-f72541d8d7c8)
+1. Implemente su primer código en C++. Para ello, cree un archivo `helloworld.cpp` en su máquina. El contenido del archivo es el siguiente:
+```
+#include <iostream>
+
+int main() {
+    std::cout << "Hello World!";
+    return 0;
+}
+```
+Una vez creado el archivo debe compilarlo para obtener un archivo ejecutable:
+```
+g++ helloworld.cpp -o app
+```
+Esto da lugar a un ejecutable denominado `app`.
+
+Por último, puede ejecutar este programa `app` tal como sigue:
+```
+./app
+```
 
 2. Visualice también [este otro](http://www.upv.es/visor/media/26c336b0-19d1-2648-be94-f0d72d9af755/c) que
 introduce los conceptos de Algoritmo y Programa.
