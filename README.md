@@ -23,7 +23,7 @@ La única manera de aprender a programar es programando. Por ello, tanto en esta
 
 ### Trabajo previo
 
-Implemente su primer código en C++. Para ello, cree un archivo `hello_world.cc` en su máquina. El contenido del archivo es el siguiente:
+1. Implemente su primer código en C++. Para ello, cree un archivo `hello_world.cc` en su máquina. El contenido del archivo es el siguiente:
 ```cpp
 #include <iostream>
 
@@ -46,6 +46,8 @@ La salida será la siguiente:
 ```
 Hello World!
 ```
+2. Lea con detenimiento el [artículo](http://www.cplusplus.com/doc/tutorial/basic_io/) sobre entrada y salida en C++.
+3. Lea con detenimiento el [artículo](https://www.tutorialspoint.com/cplusplus/cpp_data_types.htm) tipos básicos en C++.
 
 ### Ejercicios 
 
@@ -60,11 +62,3 @@ El alumno/a escribirá programas independientes que atiendan a los siguientes en
 4. Escribir un programa en C++ que calcule y muestre la media de 3 calificaciones de alumnos de la asignatura Informática Básica. El programa solicitará al usuario la calificación de cada uno de los 3 alumnos donde cada calificación será un valor numérico entre `0.0` y `10.0`.
 
 5. Escribir un programa en C++ que calcule el área y el perímetro de un cuadrado. El programa solicitará la longitud del lado del cuadrado y luego mostrará en pantalla un mensaje con el perímetro y el área.
-
-### Referencias
-
-[Initiation to Algorithmics with
-Scratch](https://drive.google.com/file/d/1DIU-bqgAurT-F9Ltnlam9QYWaZVeLlRJ/view?usp=sharing) Benoit Gaudou.
-
-
-
