@@ -23,8 +23,8 @@ La única manera de aprender a programar es programando. Por ello, tanto en esta
 
 ### Trabajo previo
 
-1. Implemente su primer código en C++. Para ello, cree un archivo `helloworld.cpp` en su máquina. El contenido del archivo es el siguiente:
-```
+Implemente su primer código en C++. Para ello, cree un archivo `hello_world.cc` en su máquina. El contenido del archivo es el siguiente:
+```cpp
 #include <iostream>
 
 int main() {
@@ -34,46 +34,18 @@ int main() {
 ```
 Una vez creado el archivo debe compilarlo para obtener un archivo ejecutable:
 ```
-g++ helloworld.cpp -o app
+g++ -std=c++14 -g -Wall -o hello_world hello_world.cc
 ```
-Esto da lugar a un ejecutable denominado `app`.
+Esto da lugar a un ejecutable denominado `hello_world`.
 
-Por último, puede ejecutar este programa `app` tal como sigue:
+Por último, puede ejecutar este programa `hello_world` tal como sigue:
 ```
-./app
+./hello_world
 ```
-
-2. Visualice también [este otro](http://www.upv.es/visor/media/26c336b0-19d1-2648-be94-f0d72d9af755/c) que
-introduce los conceptos de Algoritmo y Programa.
-
-3. Estudie detenidamente el contenido de las 3 páginas [“Designing an algorithm”](https://www.bbc.co.uk/bitesize/guides/z3bq7ty/revision/1)
-y estudie en ellas los conceptos de Algoritmo, Pseudocódigo, Datos de Entrada, Datos de Salida, Instrucciones y Diagramas de Flujo.
-
-4. Para la realización de los ejercicios que aquí se proponen se utilizarán un par de lenguajes de programación visual: [Blockly](https://developers.google.com/blockly)
-y [Scratch](https://scratch.mit.edu/). 
-En ambos casos los algoritmos se codifican utilizando “bloques” que representan los diferentes tipos de instrucciones disponibles en cualquier lenguaje de programación: 
-asignaciones, instrucciones de repetición, instrucciones condicionales, funciones, ...
-En los lenguajes de programación a estas instrucciones se les denomina sentencias (*statements*).
-
-En Blockly, una vez programado un algoritmo en el lenguaje de bloques de Blockly, es posible obtener el programa correspondiente a dicho algoritmo en 
-otros lenguajes de programación: Python, JavaScript, Lua, ...
-La sintaxis de JavaScript es muy similar a la de C++, el lenguaje que se utilizará en esta asignatura.
-Un primer programa en [Blockly](https://developers.google.com/blockly) que imprima los cuadrados de los N primeros números naturales 
-podría ser el que se muestra en [esta figura](https://raw.githubusercontent.com/fsande/IB-P03-Algorithms-Programs/master/blockly1.png).
-
-Escriba este programa en Blockly y ejecútelo. 
-Vea cómo el programa es “traducido” a diferentes lenguajes (panel de la derecha). 
-Realice diferentes cambios en el programa para familiarizarse con el entorno de programación de Blockly.
-
-5. En el caso de Blockly los programas que realice no se pueden guardar, mientras que en [Scratch](https://scratch.mit.edu/) sí es posible hacerlo. 
-Comience por [crear una cuenta en Scratch](https://scratch.mit.edu/join) para poder almacenar sus proyectos. 
-En cuanto tenga su cuenta, desarrolle en Scratch un programa que imprima en pantalla el doble de los N primeros números naturales. 
-[Esta podría ser una solución](https://scratch.mit.edu/projects/406186813/editor/) al problema propuesto. 
-Igual que en el caso anterior, realice cambios en el programa para que aprenda los fundamentos de Scratch.
-
-6. Estudie [este documento](https://www.futurelearn.com/courses/block-to-text-based-programming/0/steps/39492). 
-En él se insiste en la idea de pseudocódigo y se muestra la solución al famoso problema [FizzBuzz](https://en.wikipedia.org/wiki/Fizz_buzz)
-tanto en Scratch como en pseudocódigo.
+La salida será la siguiente:
+```
+Hello World!
+```
 
 ### Ejercicios 
 
