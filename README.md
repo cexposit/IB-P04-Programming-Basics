@@ -14,8 +14,9 @@ Se señalan a continuación los aspectos más relevantes (la lista no es exhaust
 
 * El alumnado ha de acreditar que es capaz de realizar programas simples en C++ similares a los que se proponen en este documento.
 * El alumnado ha de acreditar conocer los conceptos expuestos en el material de referencia de esta práctica.
-
-**Avise al profesor** al finalizar la realización de cada uno de los pasos que se indican a continuación. No inicie una nueva tarea sin haber revisado la anterior.
+* Ha de acreditarse que se es capaz de conectarse a la máquina virtual de la asignatura y ejecutar en ella comandos de Linux.
+* Ha de acreditar que es capaz de editar ficheros alojados en la VM de la asignautra usando VSC.
+* Ha de demostrar que es capaz de modificar, compilar y ejecutar los programas que desarrolle.
 
 ### Introducción
 
@@ -50,8 +51,9 @@ Hello World!
 3. Lea con detenimiento el [artículo](http://www.cplusplus.com/doc/tutorial/basic_io/) sobre entrada y salida en C++.
 4. Lea con detenimiento el [artículo](https://www.tutorialspoint.com/cplusplus/cpp_data_types.htm) tipos básicos en C++.
 
-
 ### Ejercicios 
+
+**Avise al profesor** al finalizar la realización de cada uno de los pasos que se indican a continuación. No inicie una nueva tarea sin haber revisado la anterior.
 
 El alumno/a escribirá programas independientes que atiendan a los siguientes enunciados:
 
