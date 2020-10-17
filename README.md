@@ -46,8 +46,10 @@ La salida será la siguiente:
 ```
 Hello World!
 ```
-2. Lea con detenimiento el [artículo](http://www.cplusplus.com/doc/tutorial/basic_io/) sobre entrada y salida en C++.
-3. Lea con detenimiento el [artículo](https://www.tutorialspoint.com/cplusplus/cpp_data_types.htm) tipos básicos en C++.
+2. Estudie todo el material (vídeos, documentos y ejercicios) del tema [Primeros Programas](http://www.minidosis.org/#/temas/Cpp.PrimerosProgramas) del curso "Introducción a la programación en C++".
+3. Lea con detenimiento el [artículo](http://www.cplusplus.com/doc/tutorial/basic_io/) sobre entrada y salida en C++.
+4. Lea con detenimiento el [artículo](https://www.tutorialspoint.com/cplusplus/cpp_data_types.htm) tipos básicos en C++.
+
 
 ### Ejercicios 
 
