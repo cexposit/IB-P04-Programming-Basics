@@ -67,4 +67,6 @@ El alumno/a escribirá programas independientes que atiendan a los siguientes en
 
 5. Escribir un programa en C++ que calcule el área y el perímetro de un cuadrado. El programa solicitará la longitud del lado del cuadrado y luego mostrará en pantalla un mensaje con el perímetro y el área.
 
+<!-- 
 La respuesta a los ejercicios planteados debe encontrarse ubicado en el repositorio personal de prácticas del alumno para su consulta por parte del profesorado de la asignatura antes de comenzar la sesión de prácticas.
+-->
