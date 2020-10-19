@@ -67,11 +67,12 @@ El alumno/a escribirá programas independientes que atiendan a los siguientes en
 
 5. Escribir un programa en C++ que calcule el área y el perímetro de un cuadrado. El programa solicitará la longitud del lado del cuadrado y luego mostrará en pantalla un mensaje con el perímetro y el área.
 
-6. Escribir un programa en C++ que calcule la distancia entre 2 puntos, A y B en el espacio cartesiano de 3 dimensiones. Los puntos A y B tienen 3 coordenadas cada uno. Es decir, 
-   * A = (x_1, y_1, z_1)
-   * B = (x_2, y_2, z_2)
-El usuario introducirá los valores de x_1, y_1, z_1, x_2, y_2, z_2, respectivamente. Una vez introducido los valores el programa calculará y mostrará la distancia entre los puntos, donde la distancia entre A y B viene definido por la siguiente expresión:
-dist(A, B) = sqrt((x2-x1) + (y2-y1) + (z2-z1))
+6. Escribir un programa en C++ que calcule la distancia entre 2 puntos, `A` y `B` en el espacio cartesiano de 3 dimensiones. Los puntos `A` y `B` tienen 3 coordenadas cada uno. Es decir, 
+   * `A = (x_1, y_1, z_1)`
+   * `B = (x_2, y_2, z_2)`
+   
+El usuario introducirá los valores de `x_1`, `y_1`, `z_1`, `x_2`, `y_2`, `z_2`, respectivamente. Una vez introducido los valores el programa calculará y mostrará la distancia entre los puntos, donde la distancia entre A y B viene definido por la siguiente expresión:
+`dist(A, B) = sqrt((x2-x1) + (y2-y1) + (z2-z1))`
 
 <!-- 
 La respuesta a los ejercicios planteados debe encontrarse ubicado en el repositorio personal de prácticas del alumno para su consulta por parte del profesorado de la asignatura antes de comenzar la sesión de prácticas.
