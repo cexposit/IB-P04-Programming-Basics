@@ -70,7 +70,6 @@ El alumno/a escribirá programas independientes que atiendan a los siguientes en
 6. Escribir un programa en C++ que calcule la distancia entre 2 puntos, A y B en el espacio cartesiano de 3 dimensiones. Los puntos A y B tienen 3 coordenadas cada uno. Es decir, 
    * A = (x_1, y_1, z_1)
    * B = (x_2, y_2, z_2)
-   
 El usuario introducirá los valores de x_1, y_1, z_1, x_2, y_2, z_2, respectivamente. Una vez introducido los valores el programa calculará y mostrará la distancia entre los puntos, donde la distancia entre A y B viene definido por la siguiente expresión:
 dist(A, B) = sqrt((x2-x1) + (y2-y1) + (z2-z1))
 
