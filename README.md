@@ -72,7 +72,7 @@ El alumno/a escribirá programas independientes que atiendan a los siguientes en
    * `B = (x_2, y_2, z_2)`
    
 El usuario introducirá los valores de `x_1`, `y_1`, `z_1`, `x_2`, `y_2`, `z_2`, respectivamente. Una vez introducido los valores el programa calculará y mostrará la distancia entre los puntos, donde la distancia entre A y B viene definido por la siguiente expresión:
-`dist(A, B) = sqrt((x2-x1) + (y2-y1) + (z2-z1))`
+`dist(A, B) = sqrt((x2-x1)^2 + (y2-y1)^2 + (z2-z1)^2)`
 
 <!-- 
 La respuesta a los ejercicios planteados debe encontrarse ubicado en el repositorio personal de prácticas del alumno para su consulta por parte del profesorado de la asignatura antes de comenzar la sesión de prácticas.
